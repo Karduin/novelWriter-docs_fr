@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2024
+# Copyright (C) 2025
 # This file is distributed under the same license as the novelWriter package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: novelWriter 2.6b1\n"
+"Project-Id-Version: novelWriter 2.6rc1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-21 19:37+0100\n"
+"POT-Creation-Date: 2025-01-17 10:51+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -394,4 +394,20 @@ msgstr ""
 
 #: ../../source/project_overview.rst:386
 msgid "As of version 1.2, the log file also stores how much of the session time was spent idle. The definition of idle here is that the novelWriter main window loses focus, or the user hasn't made any changes to the currently open document in five minutes. The number of minutes can be altered in **Preferences**."
+msgstr ""
+
+#: ../../source/project_overview.rst:394
+msgid "Session Timer"
+msgstr ""
+
+#: ../../source/project_overview.rst:396
+msgid "A session timer is by default visible in the status bar. The icon will show you a clock icon when you are active, and a pause icon when you are considered \"idle\" per the criteria mentioned above."
+msgstr ""
+
+#: ../../source/project_overview.rst:399
+msgid "If you do not wish to see the timer, you can click on it once to hide it. The icon will still be visible. Click the icon once more to display the timer again."
+msgstr ""
+
+#: ../../source/project_overview.rst:402
+msgid "As of version 2.6, clicking the timer text or icon in the status bar will toggle its visibility."
 msgstr ""
