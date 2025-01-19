@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: novelWriter 2.6b1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-21 19:37+0100\n"
-"PO-Revision-Date: 2024-12-27 14:22+0100\n"
+"PO-Revision-Date: 2025-01-19 15:05+0100\n"
 "Last-Translator: \n"
 "Language-Team: fr <LL@li.org>\n"
 "Language: fr\n"
@@ -281,7 +281,7 @@ msgstr ""
 
 #: ../../source/usage_format.rst:110
 msgid "A non-breaking space can be inserted with :kbd:`Ctrl+K`, :kbd:`Space`."
-msgstr "Un espace insécable peut être inséré avec :kbd:`Ctrl+K`, :kbd:`Espace`"
+msgstr "Un espace insécable peut être inséré avec :kbd:`Ctrl+K`, :kbd:`Espace`."
 
 #: ../../source/usage_format.rst:111
 msgid ""

@@ -29,18 +29,18 @@
 \contentsline {subsection}{\numberline {6.1.5}Recherche dans un projet}{22}{subsection.6.1.5}%
 \contentsline {subsection}{\numberline {6.1.6}Changer de focus}{23}{subsection.6.1.6}%
 \contentsline {section}{\numberline {6.2}Structure du projet}{23}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Élaboration d’un manuscrit}{24}{section.6.3}%
+\contentsline {section}{\numberline {6.3}Compiler le manuscrit}{24}{section.6.3}%
 \contentsline {section}{\numberline {6.4}Stockage du projet}{24}{section.6.4}%
 \contentsline {chapter}{\numberline {7}Vues du projet}{27}{chapter.7}%
 \contentsline {section}{\numberline {7.1}L’arborescence du projet}{28}{section.7.1}%
 \contentsline {subsection}{\numberline {7.1.1}Séparation et fusion de documents}{29}{subsection.7.1.1}%
 \contentsline {subsubsection}{Découper des documents}{29}{subsubsection*.12}%
 \contentsline {subsubsection}{Fusionner des documents}{30}{subsubsection*.13}%
-\contentsline {subsection}{\numberline {7.1.2}Importance et statut du document}{30}{subsection.7.1.2}%
+\contentsline {subsection}{\numberline {7.1.2}Importance et état du document}{30}{subsection.7.1.2}%
 \contentsline {subsection}{\numberline {7.1.3}Glisser\sphinxhyphen {}déposer de l’arborescence du projet}{31}{subsection.7.1.3}%
-\contentsline {section}{\numberline {7.2}L’arborescence du roman}{31}{section.7.2}%
+\contentsline {section}{\numberline {7.2}Arborescence du roman}{31}{section.7.2}%
 \contentsline {section}{\numberline {7.3}Vue d’ensemble du roman}{32}{section.7.3}%
-\contentsline {chapter}{\numberline {8}L’éditeur et le visualisateur}{35}{chapter.8}%
+\contentsline {chapter}{\numberline {8}L’éditeur et l’afficheur}{35}{chapter.8}%
 \contentsline {section}{\numberline {8.1}Édition d’un document}{35}{section.8.1}%
 \contentsline {subsection}{\numberline {8.1.1}Vérification de l’orthographe}{37}{subsection.8.1.1}%
 \contentsline {subsection}{\numberline {8.1.2}Auto\sphinxhyphen {}complétion de l’éditeur}{37}{subsection.8.1.2}%
@@ -96,6 +96,7 @@
 \contentsline {subsection}{\numberline {12.4.3}Onglet Remplacement automatique}{65}{subsection.12.4.3}%
 \contentsline {section}{\numberline {12.5}Sauvegarde}{65}{section.12.5}%
 \contentsline {section}{\numberline {12.6}Statistiques d’écriture}{65}{section.12.6}%
+\contentsline {subsection}{\numberline {12.6.1}Chronomètre de session}{66}{subsection.12.6.1}%
 \contentsline {chapter}{\numberline {13}Structure du roman}{67}{chapter.13}%
 \contentsline {section}{\numberline {13.1}Importance des titres}{67}{section.13.1}%
 \contentsline {subsection}{\numberline {13.1.1}Titre du roman et page de garde}{68}{subsection.13.1.1}%
@@ -135,7 +136,7 @@
 \contentsline {section}{\numberline {17.6}Format 1.0 Modifications}{89}{section.17.6}%
 \contentsline {chapter}{\numberline {18}Décompte des mots et des textes}{91}{chapter.18}%
 \contentsline {section}{\numberline {18.1}Décompte des mots du texte et statistiques}{91}{section.18.1}%
-\contentsline {section}{\numberline {18.2}Décompte des manuscrits}{92}{section.18.2}%
+\contentsline {section}{\numberline {18.2}Décompte dans le manuscrit}{92}{section.18.2}%
 \contentsline {chapter}{\numberline {19}Emplacement des fichiers}{95}{chapter.19}%
 \contentsline {section}{\numberline {19.1}Configuration}{95}{section.19.1}%
 \contentsline {section}{\numberline {19.2}Données d’application}{95}{section.19.2}%

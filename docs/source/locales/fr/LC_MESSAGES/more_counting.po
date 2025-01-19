@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-12-21 19:37+0100\n"
-"PO-Revision-Date: 2024-12-23 16:13+0100\n"
+"PO-Revision-Date: 2025-01-19 15:21+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: fr\n"
@@ -41,7 +41,7 @@ msgid ""
 msgstr ""
 "Les décomptes fournis dans l'application sur le texte brut sont approximatifs. "
 "Pour des décomptes plus précis, vous devez compiler votre manuscrit avec "
-"**Outil manuscrit** et vérifier les décomptes sur l'aperçu généré."
+"**Compiler le manuscrit** et vérifier les décomptes sur l'aperçu généré."
 
 #: ../../source/more_counting.rst:16
 msgid "Text Word Counts and Stats"
@@ -144,7 +144,7 @@ msgstr ""
 
 #: ../../source/more_counting.rst:46
 msgid "Manuscript Counts"
-msgstr "Décompte des manuscrits"
+msgstr "Décompte dans le manuscrit"
 
 #: ../../source/more_counting.rst:48
 msgid ""
@@ -155,10 +155,10 @@ msgid ""
 "**Manuscript Tool** does not."
 msgstr ""
 "Voici les règles pour les décomptes disponibles pour un manuscrit dans l'outil "
-"**Outil Manuscrit**. Les règles ont été ajustées pour correspondre à "
+"**Compiler le manuscrit**. Les règles ont été ajustées pour correspondre à "
 "LibreOffice Writer, mais varieront légèrement en fonction du contenu de votre "
 "texte. LibreOffice Writer compte également le texte dans l'en-tête de la page, "
-"ce que ne fait pas l'outil **Outil Manuscrit**."
+"ce que ne fait pas l'outil **Compiler le manuscrit**."
 
 #: ../../source/more_counting.rst:53
 msgid ""

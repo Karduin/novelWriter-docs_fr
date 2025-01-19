@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: novelWriter 2.6b1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-21 19:37+0100\n"
-"PO-Revision-Date: 2024-12-27 14:27+0100\n"
+"PO-Revision-Date: 2025-01-19 15:08+0100\n"
 "Last-Translator: \n"
 "Language-Team: fr <LL@li.org>\n"
 "Language: fr\n"
@@ -82,7 +82,7 @@ msgstr ":kbd:`F8`"
 
 #: ../../source/usage_shortcuts.rst:1
 msgid "Toggle **Focus Mode**"
-msgstr "Basculer **Mode focus**"
+msgstr "Basculer **Mode sans distraction**"
 
 #: ../../source/usage_shortcuts.rst:1
 msgid ":kbd:`F9`"

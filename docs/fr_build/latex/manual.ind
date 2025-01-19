@@ -9,6 +9,10 @@
   \item \spxentry{Dossier racine}, \hyperindexformat{\spxpagem}{17}
 
   \indexspace
+  \bigletter E
+  \item \spxentry{En\sphinxhyphen {}têtes}, \hyperindexformat{\spxpagem}{17}
+
+  \indexspace
   \bigletter I
   \item \spxentry{Index du projet}, \hyperindexformat{\spxpagem}{17}
 
@@ -19,7 +23,7 @@
 
   \indexspace
   \bigletter N
-  \item \spxentry{Notes de projet}, \hyperindexformat{\spxpagem}{17}
+  \item \spxentry{Notes de projet}, \hyperindexformat{\spxpagem}{18}
 
   \indexspace
   \bigletter R
@@ -28,6 +32,5 @@
   \indexspace
   \bigletter T
   \item \spxentry{Tag}, \hyperindexformat{\spxpagem}{18}
-  \item \spxentry{Titres}, \hyperindexformat{\spxpagem}{18}
 
 \end{sphinxtheindex}
