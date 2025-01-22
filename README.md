@@ -1,5 +1,5 @@
 # novelWriter-docs_fr
-## https://novelwriter.io/
+
 ## Mon memo.
 
 - ### Créer un environnement virtuel. miniconda
