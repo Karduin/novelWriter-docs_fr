@@ -380,7 +380,6 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/txfonts/t1xtt.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
-INPUT /usr/share/texmf/fonts/tfm/public/tex-gyre/ts1-qtmb.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/tex-gyre/ts1-qtmri.tfm
 INPUT ./fig_project_tree_view.png
 INPUT ./fig_project_tree_view.png

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.12.27)  19 JAN 2025 15:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.12.27)  26 JAN 2025 17:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1107,7 +1107,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 ]
 Chapter 7.
-<fig_project_tree_detailed.png, id=1040, 651.93562pt x 510.40688pt>
+<fig_project_tree_detailed.png, id=1041, 651.93562pt x 510.40688pt>
 File: fig_project_tree_detailed.png Graphic file (type png)
 <use fig_project_tree_detailed.png>
 Package pdftex.def Info: fig_project_tree_detailed.png  used on input line 866.
@@ -1123,7 +1123,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [28]
-<fig_project_split_tool.png, id=1058, 322.20375pt x 328.97906pt>
+<fig_project_split_tool.png, id=1059, 322.20375pt x 328.97906pt>
 File: fig_project_split_tool.png Graphic file (type png)
 <use fig_project_split_tool.png>
 Package pdftex.def Info: fig_project_split_tool.png  used on input line 938.
@@ -1138,7 +1138,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [29 <./fig_project_split_tool.png>]
-<fig_project_merge_tool.png, id=1065, 322.20375pt x 268.00125pt>
+<fig_project_merge_tool.png, id=1066, 322.20375pt x 268.00125pt>
 File: fig_project_merge_tool.png Graphic file (type png)
 <use fig_project_merge_tool.png>
 Package pdftex.def Info: fig_project_merge_tool.png  used on input line 957.
@@ -1202,7 +1202,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 ]
 Chapter 8.
-<fig_editor.png, id=1100, 596.98032pt x 481.04718pt>
+<fig_editor.png, id=1101, 596.98032pt x 481.04718pt>
 File: fig_editor.png Graphic file (type png)
 <use fig_editor.png>
 Package pdftex.def Info: fig_editor.png  used on input line 1073.
@@ -1217,7 +1217,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [36 <./fig_editor.png>]
-<fig_viewer.png, id=1115, 651.18282pt x 432.11438pt>
+<fig_viewer.png, id=1116, 651.18282pt x 432.11438pt>
 File: fig_viewer.png Graphic file (type png)
 <use fig_viewer.png>
 Package pdftex.def Info: fig_viewer.png  used on input line 1123.
@@ -1232,7 +1232,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [37]
-<fig_editor_search.png, id=1124, 228.10219pt x 80.55093pt>
+<fig_editor_search.png, id=1125, 228.10219pt x 80.55093pt>
 File: fig_editor_search.png Graphic file (type png)
 <use fig_editor_search.png>
 Package pdftex.def Info: fig_editor_search.png  used on input line 1156.
@@ -1268,7 +1268,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 ]
 Chapter 9.
-<fig_references.png, id=1147, 335.75438pt x 155.83218pt>
+<fig_references.png, id=1148, 335.75438pt x 155.83218pt>
 File: fig_references.png Graphic file (type png)
 <use fig_references.png>
 Package pdftex.def Info: fig_references.png  used on input line 1221.
@@ -1445,7 +1445,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [58]
 Chapter 12.
-<fig_welcome.jpg, id=1258, 1618.045pt x 580.1675pt>
+<fig_welcome.jpg, id=1261, 1618.045pt x 580.1675pt>
 File: fig_welcome.jpg Graphic file (type jpg)
 <use fig_welcome.jpg>
 Package pdftex.def Info: fig_welcome.jpg  used on input line 2826.
@@ -1603,13 +1603,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 ]
 Chapter 15.
-<fig_manuscript_build.png, id=1381, 724.95844pt x 501.37312pt>
+<fig_manuscript_build.png, id=1385, 724.95844pt x 501.37312pt>
 File: fig_manuscript_build.png Graphic file (type png)
 <use fig_manuscript_build.png>
 Package pdftex.def Info: fig_manuscript_build.png  used on input line 3424.
 (pdftex.def)             Requested size: 362.37569pt x 250.61708pt.
 [77 <./fig_manuscript_build.png>]
-<fig_manuscript_build_outline.png, id=1388, 724.95844pt x 501.37312pt>
+<fig_manuscript_build_outline.png, id=1392, 724.95844pt x 501.37312pt>
 File: fig_manuscript_build_outline.png Graphic file (type png)
 <use fig_manuscript_build_outline.png>
 Package pdftex.def Info: fig_manuscript_build_outline.png  used on input line 3
@@ -1625,13 +1625,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [78 <./fig_manuscript_build_outline.png>]
-<fig_build_settings_selections.png, id=1396, 556.32843pt x 453.94594pt>
+<fig_build_settings_selections.png, id=1400, 556.32843pt x 453.94594pt>
 File: fig_build_settings_selections.png Graphic file (type png)
 <use fig_build_settings_selections.png>
 Package pdftex.def Info: fig_build_settings_selections.png  used on input line 
 3467.
 (pdftex.def)             Requested size: 362.37569pt x 295.69168pt.
-<fig_build_settings_headings.png, id=1397, 545.78906pt x 477.28313pt>
+<fig_build_settings_headings.png, id=1401, 545.78906pt x 477.28313pt>
 File: fig_build_settings_headings.png Graphic file (type png)
 <use fig_build_settings_headings.png>
 Package pdftex.def Info: fig_build_settings_headings.png  used on input line 34
@@ -1656,7 +1656,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [80 <./fig_build_settings_headings.png>]
-<fig_build_build.png, id=1413, 471.26062pt x 301.8778pt>
+<fig_build_build.png, id=1417, 471.26062pt x 301.8778pt>
 File: fig_build_build.png Graphic file (type png)
 <use fig_build_build.png>
 Package pdftex.def Info: fig_build_build.png  used on input line 3532.
@@ -1788,7 +1788,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [96]
 Chapter 20.
 
-Underfull \hbox (badness 5417) in paragraph at lines 4145--4147
+Underfull \hbox (badness 5417) in paragraph at lines 4141--4143
 \T1/qtm/m/n/10.95 Tous les fichiers novelWriter sont écrits avec l'encodage utf
 -8. Comme Python convertit
  []
@@ -1858,7 +1858,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 ]
 Chapter 22.
 
-Underfull \hbox (badness 10000) in paragraph at lines 4421--4423
+Underfull \hbox (badness 10000) in paragraph at lines 4417--4419
 []\T1/qtm/m/n/10.95 Vous pouvez désactiver le rendu de l'interface graphique en
  définissant le drapeau
  []
@@ -1882,14 +1882,14 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
 Package rerunfilecheck Info: File `manual.out' has not changed.
-(rerunfilecheck)             Checksum: 68B7DD4A66D1A68C7C4364B713E884E9;31746.
+(rerunfilecheck)             Checksum: 2AC51B6A5C8D46061D2615D9788BAA4F;31782.
  ) 
 Here is how much of TeX's memory you used:
- 17757 strings out of 476182
- 304967 string characters out of 5795594
+ 17755 strings out of 476182
+ 304942 string characters out of 5795594
  2002975 words of memory out of 5000000
- 39033 multiletter control sequences out of 15000+600000
- 623133 words of font info for 98 fonts, out of 8000000 for 9000
+ 39032 multiletter control sequences out of 15000+600000
+ 622755 words of font info for 97 fonts, out of 8000000 for 9000
  15 hyphenation exceptions out of 8191
  72i,12n,83p,1195b,659s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr
@@ -1903,10 +1903,10 @@ pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qtmri.pfb></usr/share/texlive
 t/fonts/type1/public/txfonts/t1xtt.pfb></usr/share/texlive/texmf-dist/fonts/typ
 e1/public/txfonts/t1xtt.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/t
 xfonts/tcxtt.pfb>
-Output written on manual.pdf (113 pages, 2776815 bytes).
+Output written on manual.pdf (113 pages, 2776339 bytes).
 PDF statistics:
- 1699 PDF objects out of 1728 (max. 8388607)
- 1504 compressed objects within 16 object streams
+ 1701 PDF objects out of 1728 (max. 8388607)
+ 1507 compressed objects within 16 object streams
  329 named destinations out of 1000 (max. 500000)
  1430 words of extra memory for PDF output out of 10000 (max. 10000000)
 

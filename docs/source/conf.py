@@ -40,9 +40,9 @@ templates_path = ["_templates"]
 source_suffix = ".rst"
 master_doc = "index"
 today_fmt = "%A, %d %B %Y at %H:%M"
-locale_dirs = ['locales/']   # path is example but recommended.
-gettext_compact = False
 language = "en"
+locale_dirs = ['locales/']
+gettext_compact = False
 exclude_patterns = []
 
 # -- Options for HTML Output -------------------------------------------------
